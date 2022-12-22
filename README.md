@@ -1,4 +1,4 @@
-                                                       Heart-Disease-Prediction-using-R
+                                               Heart-Disease-Prediction-using-R
 Prediction system which uses the concept of Logistic Regression with a single independent variable AND multiple independent variables so we can fully understand how it it works. 
 
 Steps involved: 
